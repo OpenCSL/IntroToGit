@@ -20,6 +20,5 @@ One of the basic examples of Controlling versions is having the same unsaved doc
 ## Introduction To Git:
 Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
-Let’s Get Started..  [Click here for Lesson 1](Lessons/lesson1.md)
-
+Let’s Get Started..  [Click here for Lesson 1](Lessons/Lesson1/lesson1.md)
 
